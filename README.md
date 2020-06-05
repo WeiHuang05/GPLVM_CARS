@@ -1,3 +1,3 @@
 # Gaussian-process-latent-variable-model-factorization-for-context-aware-Recommendation
-Matlab codes for the paper "Gaussian Process Latent Variable Model Factorization for Context-aware Recommender Systems"
+Matlab code for the paper "Gaussian Process Latent Variable Model Factorization for Context-aware Recommender Systems"
 arXiv link: https://arxiv.org/abs/1912.09593
